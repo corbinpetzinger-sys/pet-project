@@ -1,7 +1,7 @@
 public class Pet {
 
 // attribute fields:
-private String species;
+public String species;
 
 
 // constructor method
